@@ -1,1 +1,0 @@
-Carpeta de talleres de Análisis Numerico 2130 de Andrés Alarcón
